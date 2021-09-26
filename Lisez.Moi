@@ -1,6 +1,6 @@
 Brief 4: Régression logistique
 début: 16 novembre 2020
-Correction du brief réaliser du 14 au 26 septembre 2021
+Correction du brief réalisé du 14 au 26 septembre 2021
 
 contenu:
 brief4-rendu.ipynb : Notebook
@@ -8,6 +8,5 @@ Lisez.Moi
 pompompidou.zip: Fichiers contenant les données pour ce brief:
 conv.mp4 fichier vidéo montrant la convergence des courbe en fonction du nombre d'itération
 
-Note: pour régler le problème du push:
-	Faire:
-	git remote set-url origin git@github.com:jpphi/briefxxxxxxxxxx.git
+Note: pour régler le problème du push faire: git remote set-url origin git@github.com:jpphi/briefxxxxxxxxxx.git
+    git remote set-url origin git@github.com:jpphi/brief4-regLog.git
